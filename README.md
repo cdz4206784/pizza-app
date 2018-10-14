@@ -1,6 +1,6 @@
 # pizza-app
 
-> A Vue.js project
+> A Vue.js project  about vue-router
 
 ## Build Setup
 
